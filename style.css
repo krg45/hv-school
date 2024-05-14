@@ -9,12 +9,13 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
-    color: #ececec;
+    color: #ece7e7;
 }
 .header {
-    background-color: #f3f3f3;
+    background-color: #222020d2;
     text-align: center;
     padding: 40px 0;
+    color: #ffffff;
 }
 
 
